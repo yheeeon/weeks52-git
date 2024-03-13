@@ -1,1 +1,1 @@
-# weeks52-git
+# weeks52-git tutorial
